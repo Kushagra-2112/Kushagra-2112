@@ -1,183 +1,328 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Kushagra%20Sharma&fontSize=70&color=gradient&customColorList=0,2,2,5,30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=ML%20%2F%20DL%20Engineer%20%7C%20Neural%20Networks%20%7C%20AI%20Builder&descSize=20&descAlignY=75&stroke=FFFFFF&strokeWidth=1" width="100%" />
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B8860B,100:2F1B0C&height=200&section=header&text=KUSHAGRA%20SHARMA&fontSize=48&fontColor=FF7F50&animation=fadeIn&fontAlignY=32" width="100%"/>
 
-<div align="center">
+<h3>🧠 AI ENGINEER &nbsp;&amp;&nbsp; COMPUTER VISION BUILDER</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+Building+intelligent+systems+from+scratch;%F0%9F%94%A5+Deep+Learning+%7C+PyTorch+%7C+Computer+Vision;%F0%9F%9A%80+Turning+ideas+into+deployable+AI;%F0%9F%8C%B1+ITM+University+%7C+Gwalior%2C+India)](https://git.io/typing-svg)
+<h2>⚔️ Real-Time Vision &amp; Voice AI Sy</h2>
 
-</div>
+<br/>
 
-<br>
-
----
-
-<img align="right" alt="AI GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## `> whoami`
-
-```python
-class Kushagra:
-    name       = "Kushagra Sharma"
-    university = "ITM University, Gwalior"
-    focus      = ["Deep Learning", "Neural Nets", "Computer Vision"]
-    stack      = ["Python", "PyTorch", "Streamlit", "Supabase"]
-    building   = "Multimodal AI systems"
-    goal       = "Deploy AI that solves real problems 🌍"
-    open_to    = ["Collaborations", "AI projects", "Research"]
-
-    def greet(self):
-        return "Let's build something extraordinary 🚀"
-```
-
-<br><br>
-
-- 🎓 &nbsp;Studying at **ITM University, Gwalior**
-- 🔭 &nbsp;Building **Multimodal AI** — face + voice recognition systems
-- 🌱 &nbsp;Deep-diving into **PyTorch, CNN architectures, NLP pipelines**
-- 💬 &nbsp;Ask me about **ML/DL projects, Streamlit apps, Supabase**
-- ⚡ &nbsp;Belief: *"Every model you build makes the next one better"*
-
-<br>
-
----
-
-## 🛠️ &nbsp;Tech Arsenal
-
-<div align="center">
-
-### Core
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Deploy & Backend
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/Profile_views-000?style=flat-square&color=555555&label=Profile%20views"/>
+<a href="https://www.linkedin.com/in/kushagra-sharma-75571028b/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Kushagra-2112?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://x.com/Kushagra211205"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="mailto:kushagra@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 &nbsp;Flagship Projects
+## 🏴‍☠️ The Captain's Log (About Me)
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="30%"><b>🧭 Kushagra Sharma</b></td>
+<td width="70%">"Ship the model. Ship the product. Then ship the paper."</td>
+</tr>
+</table>
 
-### 🎓 SnapClass — AI Attendance System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-2112&repo=SnapClass-Multimodal-AI-Attendance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Kushagra-2112/SnapClass-Multimodal-AI-Attendance)
+<br/>
 
-**Multimodal identity verification** using face recognition + voice biometrics. Students are marked present only when both signals confirm identity — no proxies, no spoofing.
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-`Python` `Streamlit` `Supabase` `Face Recognition` `Voice AI`
+Ahoy! ⚓ I'm **Kushagra Sharma**, an aspiring **AI Engineer** currently navigating the waters of Machine Learning, Deep Learning, Computer Vision, and NLP as a student at **ITM University, Gwalior**.
+
+Just like charting unmapped seas, I design, build, and ship real-time AI systems that don't just process the world — they respond to it.
+
+- 🧠 **Computer Vision & Pose Estimation:** Building rule-based, sensor-free systems on top of MediaPipe/BlazePose for real-time human motion analysis.
+- 🗣️ **LLM-Augmented Feedback Systems:** Pairing deterministic rule engines with generative language models, so systems explain themselves instead of just flagging errors.
+- 🛡️ **Applied Machine Learning:** From fraud detection (Random Forest, 99.86% on 6.3M transactions) to multimodal biometric attendance (face + voice fusion).
+- ⚙️ **Core Toolkit:** Python, PyTorch, OpenCV, MediaPipe, Streamlit, scikit-learn.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-### 📄 ATS Scorer
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-2112&repo=ATS_SCORER&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Kushagra-2112/ATS_SCORER)
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="45"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="45"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=streamlit&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="45"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45"/>
 
-**Resume intelligence tool** that scores how well a resume matches a job description — helping candidates optimize for applicant tracking systems before applying.
-
-`Python` `NLP` `Resume Parsing` `Text Analysis`
+<sub>Crew's Navigation Tools</sub>
 
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+## 📖 The Grand Line: AI Engineering Voyage
+
+Here's the roadmap of my journey — a zig-zag path from student to builder of real-time AI systems:
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**1. 🏝️ THE EAST BLUE (Student)**
+ITM University, B.Tech AI
+`Python` `ML Foundations` `Data Structures`
+
+</td>
+<td width="50%" valign="top">
+
+**2. ⚓ ALABASTA (Core ML/DL)**
+Machine Learning & Deep Learning
+`PyTorch` `scikit-learn` `Model Training`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**3. 🌊 WATER 7 (Computer Vision)**
+Pose Estimation & Real-Time Systems
+`MediaPipe` `OpenCV` `Rule-Based Inference`
+
+</td>
+<td width="50%" valign="top">
+
+**4. 🏜️ SABAODY (LLM Integration)**
+Voice & Language-Augmented Systems
+`Groq API` `gTTS` `LLM Feedback Loops`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**5. 👑 NEW WORLD (Applied Projects)**
+Gym Coach · SnapClass · FraudShield
+`Streamlit` `Supabase` `Production Systems`
+
+</td>
+<td width="50%" valign="top">
+
+**6. 🧭 THE HORIZON (Next Destination)**
+Production-Grade AI Engineer Role
+`MLOps` `Scaled Deployment` `Research`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## ⚔️ Arsenal of Weapons (Skills & Tools)
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushagra-2112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-2112&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+**🧠 Machine Learning & Computer Vision**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-</div>
+**🗣️ LLM & Voice Systems**
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/> <img src="https://img.shields.io/badge/gTTS-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/LLM_APIs-000000?style=flat-square&logo=openai&logoColor=white"/>
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com/?user=Kushagra-2112&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+**🚀 App, Storage & Deployment**
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
 
-</div>
+**☁️ Dev Environment**
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra-2112&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🧠 &nbsp;Learning Roadmap
-
-```
-2025 — Present
-├── ✅  Python Fundamentals & OOP
-├── ✅  NumPy · Pandas · Data Wrangling
-├── ✅  Machine Learning (scikit-learn)
-├── ✅  Built SnapClass Multimodal AI System
-├── ✅  Built ATS Resume Scorer
-├── 🔄  Deep Learning with PyTorch (in progress)
-├── 🔄  Convolutional Neural Networks (in progress)
-├── 📌  Transformers & Attention Mechanisms (next)
-├── 📌  LLM Fine-tuning & RAG pipelines (next)
-└── 📌  MLOps & model deployment at scale (future)
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 &nbsp;Connect With Me
+## 🏆 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://www.linkedin.com/in/kushagra-sharma-75571028b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/Kushagra211205" target="_blank">
-<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Kushagra-2112" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/🏋️_REAL--TIME_AI_GYM_COACH-D2691E?style=for-the-badge"/>
 
-<br><br>
+Sensor-free, real-time exercise monitoring using MediaPipe pose estimation, rule-based joint-angle form checking, and LLM-generated voice coaching — fully CPU-bound.
 
-📬 &nbsp;Open to **collaborations, project discussions & AI research**
+- **Rule Engine:** Joint-angle FSM for rep counting & form classification
+- **Voice Feedback:** Groq LLM generates coaching text, spoken via gTTS
+- **Zero Sensors:** Runs on a laptop webcam, no wearables or GPU
 
-</div>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+
+[→ View Repository](https://github.com/Kushagra-2112/real-time-exercise-coach)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🎓_SNAPCLASS_ATTENDANCE-1E90FF?style=for-the-badge"/>
+
+Tamper-resistant attendance system that can't be fooled by a photo — face recognition fused with voice verification.
+
+- **Multimodal Fusion:** Face + voice signals verified together
+- **Cloud Backend:** Supabase for real-time record sync
+- **Streamlit UI:** Simple session-based verification flow
+
+<img src="https://img.shields.io/badge/Face_Recognition-333333?style=flat-square"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square"/>
+
+[→ View Repository](https://github.com/Kushagra-2112/SnapClass-Multimodal-AI-Attendance)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🛡️_FRAUDSHIELD-DC143C?style=for-the-badge"/>
+
+Real-time UPI fraud detection using a Random Forest classifier — 99.86% accuracy across 6.3M PaySim transactions.
+
+- **High Accuracy:** 99.86% on real-world-scale transaction data
+- **Explainable:** Feature-importance driven, not black-box
+- **Production-Ready:** Designed for real-time transaction scoring
+
+<img src="https://img.shields.io/badge/Random_Forest-333333?style=flat-square"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square"/>
+
+[→ View Repository](https://github.com/Kushagra-2112/Fraudshield---Real-Time-UPI-Fraud-Pay-Detection-System)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/⚡_POWER_PLANT_PREDICTION-228B22?style=for-the-badge"/>
+
+ANN-based regression model predicting combined-cycle power plant energy output from environmental sensor data.
+
+- **Regression Model:** ANN trained on temperature, pressure, humidity, vacuum
+- **Real Dataset:** Combined-cycle power plant telemetry
+- **Notebook-Based:** Clean, reproducible Jupyter workflow
+
+<img src="https://img.shields.io/badge/ANN-333333?style=flat-square"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square"/>
+
+[→ View Repository](https://github.com/Kushagra-2112/Power_Plant)
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 📜 Professional Experience Verifications
+
+<sub>*Add your own internship/certificate images here — see template note below.*</sub>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**[COMPANY NAME]**
+`[ROLE / INTERNSHIP TITLE]`
+
+<img src="https://via.placeholder.com/280x180/1a1a1a/888888?text=Certificate+Image" width="100%"/>
+
+<sub>[One-line summary of what you worked on]</sub>
+
+</td>
+<td width="33%" align="center">
+
+**[COMPANY NAME]**
+`[ROLE / INTERNSHIP TITLE]`
+
+<img src="https://via.placeholder.com/280x180/1a1a1a/888888?text=Certificate+Image" width="100%"/>
+
+<sub>[One-line summary of what you worked on]</sub>
+
+</td>
+<td width="33%" align="center">
+
+**[COMPANY NAME]**
+`[ROLE / INTERNSHIP TITLE]`
+
+<img src="https://via.placeholder.com/280x180/1a1a1a/888888?text=Certificate+Image" width="100%"/>
+
+<sub>[One-line summary of what you worked on]</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Bounties
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+### WANTED
+🧭
+**PROJECT BUILDER**
+<sub>5 Deployed AI Systems</sub>
+
+`₿ 1,111,000,000`
+
+</td>
+<td width="33%" align="center">
+
+### WANTED
+🛡️
+**FRAUD HUNTER**
+<sub>99.86% Detection Accuracy</sub>
+
+`₿ 3,000,000,000`
+
+</td>
+<td width="33%" align="center">
+
+### WANTED
+🏋️
+**VISION ENGINEER**
+<sub>Real-Time CV + LLM Systems</sub>
+
+`₿ 1,032,000,000`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚓ The Snake Game of Contribution
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kushagra-2112&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=FFFFFF" width="100%"/>
+<img src="https://raw.githubusercontent.com/Kushagra-2112/Kushagra-2112/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
+> Requires a one-time GitHub Actions workflow to activate.
+
+---
+
+## 🐌 Broadcasts (Quotes & Inspiration)
+
+<div align="center">
+
+> *"Every model starts as a bad idea. Every deadline turns it into a product."*
+> — Kushagra Sharma
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F1B0C,50:B8860B,100:8B0000&height=100&section=footer" width="100%"/>
